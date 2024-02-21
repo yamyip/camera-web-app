@@ -29,7 +29,7 @@ Style the element with id="take-photo-button"
 #front-camera-button{
     position: fixed;
     bottom: 80px;
-    width: 100%;
+    width: 100px;
     top: 20px;
     right: 20px;
 
