@@ -19,15 +19,7 @@ Style the element with id="take-photo-button"
 #take-photo-button{
     position: fixed;
     bottom: 30px;
-    width: 300px;
-    background-color: black;
-    color: white;
-    font-size: 20px;
-    border-radius: 30px;
-    border: 3px solid red;
-    padding: 15px 20px;
-    text-align: center;
-    left: calc(50% - 150px);
+    width:100px;
 
 }
 
